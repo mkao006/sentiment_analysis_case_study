@@ -9,7 +9,7 @@ This is a test for a anonymous company.
 make data
 ```
 
-The result of the analysis is in this single notebook.
+The result of the analysis is in this single [notebook](notebooks/1_exploration/1_exploration.ipynb).
 
 Project Organization
 ------------
